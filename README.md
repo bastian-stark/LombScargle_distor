@@ -1,2 +1,2 @@
 # LombScargle_distor
-R code for generating Lomb-Scargle periodogram
+Short R script for generating Lomb-Scargle periodogram using data generated from structural analysis pipeline. Used in RStudio. 
